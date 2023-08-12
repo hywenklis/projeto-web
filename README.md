@@ -4,7 +4,7 @@ Este projeto foi desenvolvido como parte da disciplina de Ferramentas de Desenvo
 
 ## Requisitos
 
-- Ambiente de desenvolvimento PHP configurado.
+- Ambiente de desenvolvimento PHP configurado. (Para configuração do ambiente foi utilizado o site `https://phpdocker.io/`)
 - Docker instalado na máquina.
 
 ## Passos da Atividade
